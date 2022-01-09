@@ -12,6 +12,7 @@ Proposed Solution :
 This project proposes a “Fitness App” to keep track of their health records and help them to maintain their diet.
 Calorie Counter Fragment is to provide a way for users to register what they have eaten throughout the day and track at what time they ate to ensure that users know what they are eating to promote healthier living. The recipe is to provide users with some good recipes so that they can easily follow and learn how to make healthy foods. Weight Progress is to allow users to track their weight by entering logs into the dieting app. Exercise is to let the users know about the recommended exercise they must be doing to reduce the weight, increase the weight, or maintain their body diet. Notification is to allow the user to schedule a notification to remind them what times they should eat.
 [![Screenshot-1.png](https://i.postimg.cc/26JSwq0X/Screenshot-1.png)](https://postimg.cc/8JRGkCQh)
+
 Functionality & Concepts used :
 
 The App has a very simple and interactive interface.
